@@ -27,10 +27,10 @@ See below a brief description and notes for each Report page:
 ![Stopped Services](/images/7-Stopped-Services.png)
 
 - **Services < 30%:** Analysis of Azure Services with a usage reduction of 30% or more.
-![Services < 30%](/images/8-Services-Less-30%.png)
+![Services < 30%](/images/8-Services-Less-30.png)
 
 - **Services > 30%:** Analysis of Azure Services with a usage increase of 30% or more.
-![Services > 30%](/images/9-Services-Greater-30%.png)
+![Services > 30%](/images/9-Services-Greater-30.png)
 
 # How to Setup
 
